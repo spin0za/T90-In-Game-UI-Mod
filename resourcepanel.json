@@ -75,17 +75,17 @@
                         "Type": "Label",
                         "Name": "Workers",
                         "ViewPort": {
-                           "xorigin": 16,
-                           "yorigin": 55,
-                           "width": 60,
-                           "height": 32,
+                           "xorigin": 4,
+                           "yorigin": 45,
+                           "width": 70,
+                           "height": 42,
                            "alignment": "TopLeft"
                         },
                         "StateMaterials": {
                            "StateNormal": {
                               "Font": {
                                  "FontIndex": 0,
-                                 "PointSize": 32,
+                                 "PointSize": 40,
                                  "Style": "Normal",
                                  "TextColor": {
                                     "r": 1,
@@ -117,9 +117,9 @@
               "Type": "Label",
               "Name": "WoodStorage",
               "ViewPort": {
-                "xorigin": 108,
-                "yorigin": 60,
-                "width": 100,
+                "xorigin": 103,
+                "yorigin": 55,
+                "width": 110,
                 "height": 34,
                 "alignment": "CentreLeft"
               },
@@ -128,7 +128,7 @@
                 "StateNormal": {
                   "Font": {
                     "FontIndex": 0,
-                    "PointSize": 34,
+                    "PointSize": 41,
                     "Style": "Normal",
                     "TextColor": {
                       "r": 1,
@@ -167,10 +167,10 @@
                   "Type": "Label",
                   "Name": "Workers",
                   "ViewPort": {
-                     "xorigin": 16,
-                     "yorigin": 55,
-                     "width": 60,
-                     "height": 32,
+                     "xorigin": 4,
+                     "yorigin": 45,
+                     "width": 70,
+                     "height": 42,
                      "alignment": "TopLeft"
                   },
                   "Help": 13363,
@@ -178,7 +178,7 @@
                      "StateNormal": {
                         "Font": {
                            "FontIndex": 0,
-                           "PointSize": 32,
+                           "PointSize": 40,
                            "Style": "Normal",
                            "TextColor": {
                               "r": 1,
@@ -208,9 +208,9 @@
                "Type": "Label",
                "Name": "FoodStorage",
                "ViewPort": {
-                  "xorigin": 308,
-                  "yorigin": 60,
-                  "width": 100,
+                  "xorigin": 305,
+                  "yorigin": 55,
+                  "width": 110,
                   "height": 34,
                   "alignment": "CentreLeft"
                },
@@ -219,7 +219,7 @@
                   "StateNormal": {
                      "Font": {
                         "FontIndex": 0,
-                        "PointSize": 34,
+                        "PointSize": 41,
                         "Style": "Normal",
                         "TextColor": {
                            "r": 1,
@@ -259,10 +259,10 @@
                         "Type": "Label",
                         "Name": "Workers",
                         "ViewPort": {
-                           "xorigin": 16,
-                           "yorigin": 55,
-                           "width": 60,
-                           "height": 32,
+                           "xorigin": 4,
+                           "yorigin": 45,
+                           "width": 70,
+                           "height": 42,
                            "alignment": "TopLeft"
                         },
                         "Help": 13364,
@@ -270,7 +270,7 @@
                            "StateNormal": {
                               "Font": {
                                  "FontIndex": 0,
-                                 "PointSize": 32,
+                                 "PointSize": 40,
                                  "Style": "Normal",
                                  "TextColor": {
                                     "r": 1,
@@ -301,9 +301,9 @@
                "Type": "Label",
                "Name": "GoldStorage",
                "ViewPort": {
-                  "xorigin": 508,
-                  "yorigin": 60,
-                  "width": 100,
+                  "xorigin": 503,
+                  "yorigin": 55,
+                  "width": 110,
                   "height": 34,
                   "alignment": "CentreLeft"
                },
@@ -312,7 +312,7 @@
                   "StateNormal": {
                      "Font": {
                         "FontIndex": 0,
-                        "PointSize": 34,
+                        "PointSize": 41,
                         "Style": "Normal",
                         "TextColor": {
                            "r": 1,
@@ -352,10 +352,10 @@
                         "Type": "Label",
                         "Name": "Workers",
                         "ViewPort": {
-                           "xorigin": 16,
-                           "yorigin": 55,
-                           "width": 60,
-                           "height": 32,
+                           "xorigin": 4,
+                           "yorigin": 45,
+                           "width": 70,
+                           "height": 42,
                            "alignment": "TopLeft"
                         },
                         "Help": 13365,
@@ -363,7 +363,7 @@
                            "StateNormal": {
                               "Font": {
                                  "FontIndex": 0,
-                                 "PointSize": 32,
+                                 "PointSize": 40,
                                  "Style": "Normal",
                                  "TextColor": {
                                     "r": 1,
@@ -394,9 +394,9 @@
                "Type": "Label",
                "Name": "StoneStorage",
                "ViewPort": {
-                  "xorigin": 710,
-                  "yorigin": 60,
-                  "width": 100,
+                  "xorigin": 705,
+                  "yorigin": 55,
+                  "width": 110,
                   "height": 34,
                   "alignment": "CentreLeft"
                },
@@ -405,7 +405,7 @@
                   "StateNormal": {
                      "Font": {
                         "FontIndex": 0,
-                        "PointSize": 34,
+                        "PointSize": 41,
                         "Style": "Normal",
                         "TextColor": {
                            "r": 1,
@@ -456,10 +456,10 @@
                       "Type": "Label",
                       "Name": "Workers",
                       "ViewPort": {
-                        "xorigin": 16,
-                        "yorigin": 55,
-                        "width": 60,
-                        "height": 32,
+                        "xorigin": 5,
+                        "yorigin": 45,
+                        "width": 70,
+                        "height": 42,
                         "alignment": "TopLeft"
                       },
                       "Help": 300322,
@@ -467,7 +467,7 @@
                         "StateNormal": {
                           "Font": {
                             "FontIndex": 0,
-                            "PointSize": 32,
+                            "PointSize": 40,
                             "Style": "Normal",
                             "TextColor": {
                               "r": 1,
@@ -498,9 +498,9 @@
                "Type": "Label",
                "Name": "PopulationCount",
                "ViewPort": {
-                  "xorigin": 910,
-                  "yorigin": 60,
-                  "width": 130,
+                  "xorigin": 908,
+                  "yorigin": 55,
+                  "width": 147,
                   "height": 34,
                   "alignment": "CentreLeft"
                },
@@ -510,7 +510,7 @@
                   "UserState0": {
                      "Font": {
                         "FontIndex": 0,
-                        "PointSize": 34,
+                        "PointSize": 41,
                         "Style": "Normal",
                         "TextColor": {
                            "r": 1,
@@ -546,7 +546,7 @@
               "ViewPort": {
                 "xorigin": 900,
                 "yorigin": 60,
-                "width": 140,
+                "width": 152,
                 "height": 72,
                 "alignment": "CentreLeft"
               },
@@ -571,11 +571,11 @@
               "Name": "Idle",
               "ClickSound": "Play_Button_UI",
               "ViewPort": {
-                "xorigin": 1080,
-                "yorigin": 57,
-                "width": 70,
-                "height": 70,
-                "alignment": "CentreCentre"
+                "xorigin": 1097,
+                "yorigin": 0,
+                "width": 93,
+                "height": 139,
+                "alignment": "TopCentre"
               },
               "ZPlaneLocalOffset": 1,
               "Radius": 25,
@@ -594,44 +594,45 @@
                   "Material": "IdleVillagerDisabled"
                 }
               },
-              "ChildWidgets": [{
-                "Widget": {
-                  "Type": "Label",
-                  "Name": "Workers",
-                  "ViewPort": {
-                    "xorigin": 0,
-                    "yorigin": 36,
-                    "width": 60,
-                    "height": 32,
-                    "alignment": "TopLeft"
-                  },
-
-                  "StateMaterials": {
-                    "StateNormal": {
-                      "Font": {
-                        "FontIndex": 0,
-                        "PointSize": 32,
-                        "Style": "Normal",
-                        "TextColor": {
-                          "r": 1,
-                          "g": 1,
-                          "b": 1,
-                          "a": 1
-                        },
-                        "TextOutlineWidth": 0.01,
-                        "TextOutlineColor": {
-                          "r": 0,
-                          "g": 0,
-                          "b": 0,
-                          "a": 1
-                        }
-                      }
+              "ChildWidgets": []
+            }
+          },
+          {
+            "Widget": {
+              "Type": "Label",
+              "Name": "IdleWorkers",
+              "ViewPort": {
+                "xorigin": 1095,
+                "yorigin": 61,
+                "width": 60,
+                "height": 32,
+                "alignment": "CentreCentre"
+              },
+              "ZPlane": 10,
+              "StateMaterials": {
+                "StateNormal": {
+                  "Font": {
+                    "FontIndex": 0,
+                    "PointSize": 39,
+                    "Style": "Normal",
+                    "TextColor": {
+                      "r": 1,
+                      "g": 1,
+                      "b": 1,
+                      "a": 1
+                    },
+                    "TextOutlineWidth": 0.01,
+                    "TextOutlineColor": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0,
+                      "a": 1
                     }
-                  },
-                  "TextAnchor": "TopRight",
-                  "ChildWidgets": []
+                  }
                 }
-              }]
+              },
+              "TextAnchor": "CentreCentre",
+              "ChildWidgets": []
             }
           },
           {
