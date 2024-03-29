@@ -2,7 +2,7 @@
   "Collection": {
     "Name": "MapPanel",
     "ViewPort": {
-      "xorigin": 620,
+      "xorigin": 610,
       "yorigin": 2159,
       "width": 2200,
       "height": 517,
@@ -21,33 +21,9 @@
         },
         "ZPlane": 1,
         "StateMaterials": {
-          "UserStates": 9,
+          "UserStates": 1,
           "UserState0": {
-            "Material": "CivAfriMapPanel"
-          },
-          "UserState1": {
             "Material": "CivAsiaMapPanel"
-          },
-          "UserState2": {
-            "Material": "CivMediMapPanel"
-          },
-          "UserState3": {
-            "Material": "CivMesoMapPanel"
-          },
-          "UserState4": {
-            "Material": "CivOrieMapPanel"
-          },
-          "UserState5": {
-            "Material": "CivSlavMapPanel"
-          },
-          "UserState6": {
-            "Material": "CivWestMapPanel"
-          },
-          "UserState7": {
-            "Material": "CivNomadMapPanel"
-          },
-          "UserState8": {
-            "Material": "CivSeasMapPanel"
           }
         },
         "ChildWidgets": [{
