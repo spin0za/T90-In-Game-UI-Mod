@@ -21,33 +21,9 @@
         },
         "ZPlane": 1,
         "StateMaterials": {
-          "UserStates": 9,
+          "UserStates": 1,
           "UserState0": {
-            "Material": "CivAfriResourcePanel"
-          },
-          "UserState1": {
             "Material": "CivAsiaResourcePanel"
-          },
-          "UserState2": {
-            "Material": "CivMediResourcePanel"
-          },
-          "UserState3": {
-            "Material": "CivMesoResourcePanel"
-          },
-          "UserState4": {
-            "Material": "CivOrieResourcePanel"
-          },
-          "UserState5": {
-            "Material": "CivSlavResourcePanel"
-          },
-          "UserState6": {
-            "Material": "CivWestResourcePanel"
-          },
-          "UserState7": {
-            "Material": "CivNomadResourcePanel"
-          },
-          "UserState8": {
-            "Material": "CivSeasResourcePanel"
           }
         },
         "ChildWidgets": [
@@ -571,11 +547,11 @@
               "Name": "Idle",
               "ClickSound": "Play_Button_UI",
               "ViewPort": {
-                "xorigin": 1097,
-                "yorigin": 0,
-                "width": 93,
-                "height": 139,
-                "alignment": "TopCentre"
+                "xorigin": 1080,
+                "yorigin": 57,
+                "width": 84,
+                "height": 84,
+                "alignment": "CentreCentre"
               },
               "ZPlaneLocalOffset": 1,
               "Radius": 25,
@@ -602,18 +578,18 @@
               "Type": "Label",
               "Name": "IdleWorkers",
               "ViewPort": {
-                "xorigin": 1095,
-                "yorigin": 61,
-                "width": 60,
-                "height": 32,
-                "alignment": "CentreCentre"
+                "xorigin": 1033,
+                "yorigin": 57,
+                "width": 70,
+                "height": 42,
+                "alignment": "TopLeft"
               },
               "ZPlane": 10,
               "StateMaterials": {
                 "StateNormal": {
                   "Font": {
                     "FontIndex": 0,
-                    "PointSize": 39,
+                    "PointSize": 40,
                     "Style": "Normal",
                     "TextColor": {
                       "r": 1,
@@ -631,7 +607,7 @@
                   }
                 }
               },
-              "TextAnchor": "CentreCentre",
+              "TextAnchor": "TopRight",
               "ChildWidgets": []
             }
           },
