@@ -66,8 +66,8 @@
           "Type": "Anchor",
           "Name": "FPSDisplay",
           "Anchor": {
-            "xorigin": 1280,
-            "yorigin": 1586,
+            "xorigin": 2020,
+            "yorigin": 2095,
             "alignment": "TopLeft"
           },
           "ChildWidgets": [
@@ -77,7 +77,7 @@
                 "Name": "FPSDisplayLabel",
                 "ViewPort": {
                   "xorigin": 0,
-                  "yorigin": 0,
+                  "yorigin": 12,
                   "width": 1000,
                   "height": 40,
                   "alignment": "TopLeft"

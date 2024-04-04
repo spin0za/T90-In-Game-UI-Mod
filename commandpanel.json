@@ -96,9 +96,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -132,9 +132,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -168,9 +168,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -204,9 +204,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -240,9 +240,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -276,9 +276,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -312,9 +312,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -348,9 +348,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -400,7 +400,7 @@
                                 {
                                   "width": 30
                                 },
-								{
+                                {
                                   "width": 30
                                 },
                                 {
@@ -424,7 +424,7 @@
                                 {
                                   "width": 110
                                 },
-								{
+                                {
                                   "width": 110
                                 }
                               ]
@@ -436,9 +436,9 @@
                                   "PointSize": 30,
                                   "Style": "Normal",
                                   "TextColor": {
-                                    "r": 57,
-                                    "g": 28,
-                                    "b": 27,
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
                                     "a": 255
                                   }
                                 }
@@ -538,9 +538,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -574,9 +574,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -610,9 +610,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -646,9 +646,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -682,9 +682,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -718,9 +718,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -770,7 +770,7 @@
                                 {
                                   "width": 30
                                 },
-								{
+                                {
                                   "width": 30
                                 },
                                 {
@@ -788,7 +788,7 @@
                                 {
                                   "width": 154
                                 },
-								{
+                                {
                                   "width": 154
                                 }
                               ]
@@ -800,9 +800,9 @@
                                   "PointSize": 30,
                                   "Style": "Normal",
                                   "TextColor": {
-                                    "r": 57,
-                                    "g": 28,
-                                    "b": 27,
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
                                     "a": 255
                                   }
                                 }
@@ -902,9 +902,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -938,9 +938,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -974,9 +974,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -1010,9 +1010,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -1046,9 +1046,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -1082,9 +1082,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -1134,7 +1134,7 @@
                                 {
                                   "width": 30
                                 },
-								{
+                                {
                                   "width": 30
                                 },
                                 {
@@ -1152,7 +1152,7 @@
                                 {
                                   "width": 154
                                 },
-								{
+                                {
                                   "width": 154
                                 }
                               ]
@@ -1164,9 +1164,9 @@
                                   "PointSize": 30,
                                   "Style": "Normal",
                                   "TextColor": {
-                                    "r": 57,
-                                    "g": 28,
-                                    "b": 27,
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
                                     "a": 255
                                   }
                                 }
@@ -1266,9 +1266,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -1302,9 +1302,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -1338,9 +1338,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -1374,9 +1374,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -1410,9 +1410,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -1446,9 +1446,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -1482,9 +1482,9 @@
                                         "PointSize": 32,
                                         "Style": "Normal",
                                         "TextColor": {
-                                          "r": 57,
-                                          "g": 28,
-                                          "b": 27,
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
                                           "a": 255
                                         }
                                       }
@@ -1534,7 +1534,7 @@
                                 {
                                   "width": 30
                                 },
-								{
+                                {
                                   "width": 30
                                 },
                                 {
@@ -1552,7 +1552,7 @@
                                 {
                                   "width": 120
                                 },
-								{
+                                {
                                   "width": 120
                                 },
                                 {
@@ -1567,9 +1567,9 @@
                                   "PointSize": 30,
                                   "Style": "Normal",
                                   "TextColor": {
-                                    "r": 57,
-                                    "g": 28,
-                                    "b": 27,
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
                                     "a": 255
                                   }
                                 }
@@ -1754,9 +1754,9 @@
                             "PointSize": 40,
                             "Style": "Normal",
                             "TextColor": {
-                              "r": 57,
-                              "g": 28,
-                              "b": 27,
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
                               "a": 255
                             }
                           }
@@ -1797,9 +1797,9 @@
                         "StateNormal": {
                           "Material": "FlatColor",
                           "Color": {
-                            "r": 57,
-                            "g": 28,
-                            "b": 27,
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
                             "a": 255
                           }
                         }
@@ -1807,17 +1807,17 @@
                       "ChildWidgets": []
                     }
                   },
-				  {
+                  {
                     "Widget": {
                       "Type": "Base",
                       "Name": "HPLegacyBack",
-                     "ViewPort": {
+                      "ViewPort": {
                         "xorigin": 62,
                         "yorigin": 184,
                         "width": 116,
                         "height": 10,
                         "alignment": "TopLeft"
-                     },
+                      },
                       "StateMaterials": {
                         "StateNormal": {
                           "Material": "FlatColor",
@@ -1836,14 +1836,14 @@
                     "Widget": {
                       "Type": "ProgressBar",
                       "Name": "HPProgress",
-                     "ViewPort": {
+                      "ViewPort": {
                         "xorigin": 62,
                         "yorigin": 184,
                         "width": 116,
                         "height": 10,
                         "alignment": "TopLeft"
-                     },
-                     "Help": 42021,
+                      },
+                      "Help": 42021,
                       "StateMaterials": {
                         "StateNormal": {
                           "Material": "FlatColor",
@@ -1874,9 +1874,9 @@
                         "StateNormal": {
                           "Material": "FlatColor",
                           "Color": {
-                            "r": 57,
-                            "g": 28,
-                            "b": 27,
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
                             "a": 255
                           }
                         }
@@ -1954,9 +1954,9 @@
                             "PointSize": 32,
                             "Style": "Normal",
                             "TextColor": {
-                              "r": 57,
-                              "g": 28,
-                              "b": 27,
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
                               "a": 255
                             }
                           }
@@ -1978,8 +1978,8 @@
 
                         "alignment": "TopLeft"
                       },
-					  "ZPlaneLocalOffset": 1,
-					  "Help": 12309,
+                      "ZPlaneLocalOffset": 1,
+                      "Help": 12309,
                       "StateMaterials": {
                         "UserStates": 1,
                         "UserState0": {
@@ -2013,9 +2013,9 @@
                                   "PointSize": 32,
                                   "Style": "Normal",
                                   "TextColor": {
-                                    "r": 57,
-                                    "g": 28,
-                                    "b": 27,
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
                                     "a": 255
                                   }
                                 }
@@ -2046,11 +2046,11 @@
                             "FontIndex": 2,
                             "PointSize": 40,
                             "Style": "Outlined",
-							"AllowGameModeTextColorOverride": false,
+                            "AllowGameModeTextColorOverride": false,
                             "TextColor": {
-                              "r": 57,
-                              "g": 28,
-                              "b": 27,
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
                               "a": 255
                             }
                           }
@@ -2079,9 +2079,9 @@
                             "PointSize": 40,
                             "Style": "Outlined",
                             "TextColor": {
-                              "r": 57,
-                              "g": 28,
-                              "b": 27,
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
                               "a": 255
                             }
                           }
@@ -2130,35 +2130,35 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 15,
-                                  "width": 110,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 15,
+                                    "width": 110,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
@@ -2191,35 +2191,35 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 15,
-                                  "width": 110,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 15,
+                                    "width": 110,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
@@ -2252,35 +2252,35 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 15,
-                                  "width": 110,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 15,
+                                    "width": 110,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
@@ -2313,35 +2313,35 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 15,
-                                  "width": 110,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 15,
+                                    "width": 110,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
@@ -2374,35 +2374,35 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 15,
-                                  "width": 110,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 15,
+                                    "width": 110,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
@@ -2434,35 +2434,35 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 15,
-                                  "width": 110,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 15,
+                                    "width": 110,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
@@ -2495,35 +2495,35 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 15,
-                                  "width": 120,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 15,
+                                    "width": 120,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
@@ -2556,35 +2556,35 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 15,
-                                  "width": 120,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 15,
+                                    "width": 120,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
@@ -2615,36 +2615,36 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 15,
-                                  "width": 0,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
-                                "ClippingOverride": "BackgroundRight",
-                                "AutoSize": true,
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 15,
+                                    "width": 0,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
+                                  "ClippingOverride": "BackgroundRight",
+                                  "AutoSize": true,
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
@@ -2677,35 +2677,35 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 15,
-                                  "width": 110,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 15,
+                                    "width": 110,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
@@ -2738,35 +2738,35 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 20,
-                                  "width": 110,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 20,
+                                    "width": 110,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
@@ -2799,40 +2799,40 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 15,
-                                  "width": 110,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 15,
+                                    "width": 110,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
                         },
-						{
+                        {
                           "Widget": {
                             "Type": "Base",
                             "Name": "StatIconReloadTime",
@@ -2860,40 +2860,40 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 20,
-                                  "width": 120,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 20,
+                                    "width": 120,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
                         },
-						{
+                        {
                           "Widget": {
                             "Type": "Base",
                             "Name": "StatIconMovementSpeed",
@@ -2921,40 +2921,40 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 20,
-                                  "width": 120,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 20,
+                                    "width": 120,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
                         },
-						{
+                        {
                           "Widget": {
                             "Type": "Base",
                             "Name": "StatIconWorkrate",
@@ -2982,40 +2982,40 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 20,
-                                  "width": 120,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 20,
+                                    "width": 120,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
                         },
-						{
+                        {
                           "Widget": {
                             "Type": "Base",
                             "Name": "StatIconBlastRadius",
@@ -3043,40 +3043,40 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 15,
-                                  "width": 120,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 15,
+                                    "width": 120,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
                         },
-						{
+                        {
                           "Widget": {
                             "Type": "Base",
                             "Name": "StatIconPierceAttack",
@@ -3104,40 +3104,40 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 15,
-                                  "width": 120,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 15,
+                                    "width": 120,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
                         },
-						{
+                        {
                           "Widget": {
                             "Type": "Base",
                             "Name": "StatIconPowerUp",
@@ -3165,35 +3165,35 @@
                             },
                             "ChildWidgets": [
                               {
-                              "Widget": {
-                                "Type": "Label",
-                                "Name": "Label",
-                                "ViewPort": {
-                                  "xorigin": 60,
-                                  "yorigin": 15,
-                                  "width": 120,
-                                  "height": 60,
-                                  "alignment": "CentreLeft"
-                                },
+                                "Widget": {
+                                  "Type": "Label",
+                                  "Name": "Label",
+                                  "ViewPort": {
+                                    "xorigin": 60,
+                                    "yorigin": 15,
+                                    "width": 120,
+                                    "height": 60,
+                                    "alignment": "CentreLeft"
+                                  },
 
-                                "StateMaterials": {
-                                  "StateNormal": {
-                                    "Font": {
-                                      "FontIndex": 0,
-                                      "PointSize": 32,
-                                      "Style": "Normal",
-                                      "TextColor": {
-                                        "r": 57,
-                                        "g": 28,
-                                        "b": 27,
-                                        "a": 255
+                                  "StateMaterials": {
+                                    "StateNormal": {
+                                      "Font": {
+                                        "FontIndex": 0,
+                                        "PointSize": 32,
+                                        "Style": "Normal",
+                                        "TextColor": {
+                                          "r": 255,
+                                          "g": 255,
+                                          "b": 255,
+                                          "a": 255
+                                        }
                                       }
                                     }
-                                  }
-                                },
-                                "Text": "Test",
-                                "TextAnchor": "CentreLeft"
-                              }
+                                  },
+                                  "Text": "Test",
+                                  "TextAnchor": "CentreLeft"
+                                }
                               }
                             ]
                           }
@@ -3232,37 +3232,37 @@
                             "PointSize": 38,
                             "Style": "Normal",
                             "TextColor": {
-                              "r": 57,
-                              "g": 28,
-                              "b": 27,
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
                               "a": 255
-                              },
-                              "TextOutlineColor": {
-                                 "r": 28,
-                                 "g": 14,
-                                 "b": 13,
-                                 "a": 255
+                            },
+                            "TextOutlineColor": {
+                              "r": 28,
+                              "g": 14,
+                              "b": 13,
+                              "a": 255
                             }
                           }
                         },
                         "StateTextDisabled": {
-                           "Font": {
-                              "FontIndex": 0,
-                              "PointSize": 38,
-                              "Style": "Normal",
-                              "TextColor": {
-                                 "r": 0.75,
-                                 "g": 0.0,
-                                 "b": 0.0,
-                                 "a": 1.0
-                              },
-                              "TextOutlineColor": {
-                                 "r": 0.37,
-                                 "g": 0.0,
-                                 "b": 0.0,
-                                 "a": 1.0
-                              }
-                        }
+                          "Font": {
+                            "FontIndex": 0,
+                            "PointSize": 38,
+                            "Style": "Normal",
+                            "TextColor": {
+                              "r": 0.75,
+                              "g": 0.0,
+                              "b": 0.0,
+                              "a": 1.0
+                            },
+                            "TextOutlineColor": {
+                              "r": 0.37,
+                              "g": 0.0,
+                              "b": 0.0,
+                              "a": 1.0
+                            }
+                          }
                         }
                       },
                       "Text": "",
@@ -3286,9 +3286,9 @@
                         "StateNormal": {
                           "Material": "FlatColor",
                           "Color": {
-                            "r": 57,
-                            "g": 28,
-                            "b": 27,
+                            "r": 255,
+                            "g": 255,
+                            "b": 255,
                             "a": 255
                           }
                         }
@@ -6356,9 +6356,9 @@
                                   "PointSize": 25,
                                   "Style": "Normal",
                                   "TextColor": {
-                                    "r": 57,
-                                    "g": 28,
-                                    "b": 27,
+                                    "r": 255,
+                                    "g": 255,
+                                    "b": 255,
                                     "a": 255
                                   }
                                 }
@@ -6578,7 +6578,7 @@
                                     "r": 242,
                                     "g": 210,
                                     "b": 182,
-"a": 255
+                                    "a": 255
                                   }
                                 }
                               }
@@ -6757,7 +6757,7 @@
                                     "r": 242,
                                     "g": 210,
                                     "b": 182,
-"a": 255
+                                    "a": 255
                                   }
                                 }
                               }
@@ -6853,7 +6853,7 @@
                                     "r": 242,
                                     "g": 210,
                                     "b": 182,
-"a": 255
+                                    "a": 255
                                   }
                                 }
                               }
