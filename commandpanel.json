@@ -3,7 +3,7 @@
     "Name": "CommandPanel",
     "ViewPort": {
       "xorigin": 0,
-      "yorigin": 2159,
+      "yorigin": 2160,
       "width": 3840,
       "height": 667,
       "alignment": "BottomLeft"
@@ -28,14 +28,14 @@
           "ViewPort": {
             "xorigin": 0,
             "yorigin": 0,
-            "width": 3304,
+            "width": 3306,
             "height": 677,
             "alignment": "TopRight"
           },
           "ZPlane": 1,
           "Image": {
             "xorigin": 0,
-            "yorigin": 254,
+            "yorigin": 255,
             "width": 1368,
             "height": 413,
             "alignment": "TopLeft"
@@ -1642,7 +1642,7 @@
                 "ViewPort": {
                   "xorigin": 403,
                   "yorigin": 347,
-                  "width": 450,
+                  "width": 0,
                   "height": 280,
                   "alignment": "TopLeft"
                 },
@@ -3342,8 +3342,8 @@
                 "Type": "Anchor",
                 "Name": "GroupButtons",
                 "Anchor": {
-                  "xorigin": 2000,
-                  "yorigin": 160,
+                  "xorigin": 2016,
+                  "yorigin": 212,
                   "alignment": "TopRight"
                 },
                 "ZPlane": 8,

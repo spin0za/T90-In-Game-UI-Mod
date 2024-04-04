@@ -2,10 +2,10 @@
   "Collection": {
     "Name": "WorldTimerPanel",
     "ViewPort": {
-      "xorigin": 0,
-      "yorigin": 0,
-      "width": 3840,
-      "height": 2160,
+      "xorigin": 2480,
+      "yorigin": 2095,
+      "width": 132,
+      "height": 200,
       "alignment": "TopLeft"
     },
     "Widgets": [{
@@ -13,11 +13,11 @@
         "Type": "Anchor",
         "Name": "WorldTimer",
         "Anchor": {
-          "xorigin": 1280,
-          "yorigin": 1586,
+          "xorigin": 0,
+          "yorigin": 0,
           "alignment": "TopLeft"
         },
-        "ZPlane": 9,
+        "ZPlane": 1,
         "ChildWidgets": [
           {
             "Widget": {
@@ -25,7 +25,7 @@
               "Name": "WorldTimerLabel",
               "ViewPort": {
                 "xorigin": 0,
-                "yorigin": 51,
+                "yorigin": 12,
                 "width": 1000,
                 "height": 40,
                 "alignment": "TopLeft"
@@ -43,7 +43,7 @@
                       "b": 1,
                       "a": 1
                     },
-                    "TextOutlineWidth": 1.0,
+                    "TextOutlineWidth": 0.05,
                     "TextOutlineColor": {
                       "r": 1,
                       "g": 1,
@@ -62,7 +62,7 @@
               "Name": "SpectatorsIcon",
               "ViewPort": {
                 "xorigin": 0,
-                "yorigin": 0,
+                "yorigin": 64,
                 "width": 500,
                 "height": 49,
                 "alignment": "TopLeft"
@@ -111,7 +111,7 @@
                             "b": 1,
                             "a": 1
                           },
-                          "TextOutlineWidth": 1.0,
+                          "TextOutlineWidth": 0.05,
                           "TextOutlineColor": {
                             "r": 1,
                             "g": 1,
@@ -133,7 +133,7 @@
               "Name": "GameIDLabel",
               "ViewPort": {
                 "xorigin": 0,
-                "yorigin": 0,
+                "yorigin": 64,
                 "width": 512,
                 "height": 49,
                 "alignment": "TopLeft"
@@ -151,7 +151,7 @@
                       "b": 1,
                       "a": 1
                     },
-                    "TextOutlineWidth": 1.0,
+                    "TextOutlineWidth": 0.05,
                     "TextOutlineColor": {
                       "r": 1,
                       "g": 1,
