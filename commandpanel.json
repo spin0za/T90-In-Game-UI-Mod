@@ -1642,7 +1642,7 @@
                 "ViewPort": {
                   "xorigin": 403,
                   "yorigin": 347,
-                  "width": 0,
+                  "width": 450,
                   "height": 280,
                   "alignment": "TopLeft"
                 },
@@ -3342,7 +3342,7 @@
                 "Type": "Anchor",
                 "Name": "GroupButtons",
                 "Anchor": {
-                  "xorigin": 2016,
+                  "xorigin": 2017,
                   "yorigin": 212,
                   "alignment": "TopRight"
                 },
