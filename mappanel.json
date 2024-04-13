@@ -2,10 +2,10 @@
   "Collection": {
     "Name": "MapPanel",
     "ViewPort": {
-      "xorigin": 660,
+      "xorigin": 0,
       "yorigin": 2160,
-      "width": 2200,
-      "height": 517,
+      "width": 3840,
+      "height": 543,
       "alignment": "BottomLeft"
     },
     "Widgets": [{
@@ -13,10 +13,10 @@
         "Type": "Base",
         "Name": "Background",
         "ViewPort": {
-          "xorigin": 1080,
-          "yorigin": 0,
-          "width": 1075,
-          "height": 517,
+          "xorigin": 1736,
+          "yorigin": 1,
+          "width": 1129,
+          "height": 543,
           "alignment": "TopLeft"
         },
         "ZPlane": 1,
@@ -30,12 +30,12 @@
          "Widget": {
             "Type": "Button",
             "Name": "ButtonFlare",
-            "ClickSound": "Play_Button_UI",
+            "ClickSound": "?button_ui",
             "ViewPort": {
-               "xorigin": 230,
-               "yorigin": 160,
-               "width": 100,
-               "height": 100,
+               "xorigin": 243,
+               "yorigin": 170,
+               "width": 97,
+               "height": 97,
                "alignment": "CentreCentre"
             },
             "ZPlaneLocalOffset": 1,
@@ -61,12 +61,12 @@
             "Widget": {
                "Type": "Button",
                "Name": "ButtonPlayer",
-               "ClickSound": "Play_Button_UI",
+               "ClickSound": "?button_ui",
                "ViewPort": {
-                  "xorigin": 970,
-                  "yorigin": 160,
-                  "width": 100,
-                  "height": 100,
+                  "xorigin": 1020,
+                  "yorigin": 170,
+                  "width": 97,
+                  "height": 97,
                   "alignment": "CentreCentre"
                },
                "ZPlaneLocalOffset": 1,
@@ -89,12 +89,12 @@
             "Widget": {
                "Type": "Button",
                "Name": "ButtonFilter",
-               "ClickSound": "Play_Button_UI",
+               "ClickSound": "?button_ui",
                "ViewPort": {
-                  "xorigin": 970,
-                  "yorigin": 400,
-                  "width": 115,
-                  "height": 115,
+                  "xorigin": 1020,
+                  "yorigin": 418,
+                  "width": 97,
+                  "height": 97,
                   "alignment": "CentreCentre"
                },
                "ZPlaneLocalOffset": 1,
@@ -117,12 +117,12 @@
             "Widget": {
               "Type": "Button",
               "Name": "ButtonColor",
-              "ClickSound": "Play_Button_UI",
+              "ClickSound": "?button_ui",
                "ViewPort": {
-                  "xorigin": 230,
-                  "yorigin": 400,
-                  "width": 100,
-                  "height": 100,
+                  "xorigin": 243,
+                  "yorigin": 418,
+                  "width": 97,
+                  "height": 97,
                   "alignment": "CentreCentre"
                },
                "ZPlaneLocalOffset": 1,
@@ -147,18 +147,18 @@
               "Name": "MapView",
               "show": true,
               "ViewPort": {
-                "xorigin": 595,
-                "yorigin": 271,
-                "width": 900,
-                "height": 500,
+                "xorigin": 621,
+                "yorigin": 284,
+                "width": 945,
+                "height": 525,
                 "alignment": "CentreCentre"
               },
               "Help": 300184,
               "Image": {
                 "xorigin": 20,
                 "yorigin": 20,
-                "width": 875,
-                "height": 475,
+                "width": 915,
+                "height": 493,
                 "alignment": "TopLeft"
               },
 

@@ -28,13 +28,13 @@
           "ViewPort": {
             "xorigin": 0,
             "yorigin": 0,
-            "width": 3306,
+            "width": 3840,
             "height": 677,
             "alignment": "TopRight"
           },
           "ZPlane": 1,
           "Image": {
-            "xorigin": 0,
+            "xorigin": 534,
             "yorigin": 255,
             "width": 1368,
             "height": 413,
@@ -55,7 +55,7 @@
                 "Name": "StatTablesAnchor",
                 "Type": "Anchor",
                 "Anchor": {
-                  "xorigin": 0,
+                  "xorigin": 534,
                   "yorigin": 254
                 },
                 "ChildWidgets": [
@@ -1640,7 +1640,7 @@
                 "Type": "Base",
                 "Name": "CivEmblem",
                 "ViewPort": {
-                  "xorigin": 403,
+                  "xorigin": 937,
                   "yorigin": 347,
                   "width": 450,
                   "height": 280,
@@ -1720,16 +1720,16 @@
                 "Type": "ClipArea",
                 "Name": "Clipped",
                 "ViewPort": {
-                  "xorigin": 10,
+                  "xorigin": 544,
                   "yorigin": 324,
-                  "width": 1300,
+                  "width": 1834,
                   "height": 400,
                   "alignment": "TopLeft"
                 },
                 "Image": {
-                  "xorigin": 1300,
+                  "xorigin": 1834,
                   "yorigin": 334,
-                  "width": 1300,
+                  "width": 1834,
                   "height": 400,
                   "alignment": "TopRight"
                 },
@@ -3342,9 +3342,9 @@
                 "Type": "Anchor",
                 "Name": "GroupButtons",
                 "Anchor": {
-                  "xorigin": 2017,
-                  "yorigin": 212,
-                  "alignment": "TopRight"
+                  "xorigin": 166,
+                  "yorigin": 189,
+                  "alignment": "TopLeft"
                 },
                 "ZPlane": 8,
                 "ChildWidgets": [

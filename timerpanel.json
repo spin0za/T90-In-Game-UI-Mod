@@ -66,8 +66,8 @@
           "Type": "Anchor",
           "Name": "FPSDisplay",
           "Anchor": {
-            "xorigin": 2020,
-            "yorigin": 2095,
+            "xorigin": 2000,
+            "yorigin": 2090,
             "alignment": "TopLeft"
           },
           "ChildWidgets": [

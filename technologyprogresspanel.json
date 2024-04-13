@@ -2,7 +2,7 @@
   "Collection": {
     "Name": "TechnologyProgressPanel",
     "ViewPort": {
-      "xorigin": 166,
+      "xorigin": 1289,
       "yorigin": 1417,
       "width": 3050,
       "height": 500,
@@ -19,7 +19,7 @@
           "height": 150,
           "alignment": "TopLeft"
         },
-        "ZPlane": 1,
+        "ZPlane": 9,
         "ChildWidgets": []
       }
     }]
